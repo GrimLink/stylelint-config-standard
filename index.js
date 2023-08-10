@@ -80,7 +80,6 @@ module.exports = {
 			},
 		],
 		'media-feature-name-no-vendor-prefix': true,
-		'media-feature-range-notation': 'context',
 		'number-max-precision': 4,
 		'property-no-vendor-prefix': true,
 		'rule-empty-line-before': [
